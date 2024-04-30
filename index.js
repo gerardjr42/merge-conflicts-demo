@@ -6,6 +6,7 @@
      };
    }
 
+
    function addPersonAsFriend(person, other) {
      person.friends.push(friend);
      return person;
